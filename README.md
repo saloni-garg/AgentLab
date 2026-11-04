@@ -11,6 +11,8 @@ gates, deterministic replay, and auditable analyses. Version 1.0
 demonstrates this methodology through three empirical studies on
 Claude Haiku 5.5.
 
+![AgentLab scaling results: mean fraction correct across team sizes for independent, orchestrated, and verified strategies](results-published/phase-a/figures/scaling_curve.svg)
+
 ```
 Experiment config
         │
